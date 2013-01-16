@@ -1,0 +1,9 @@
+name: Zombie Kill Counter
+main: com.gmail.dejayyy.ZombieCount.zkMain
+description: 'Keep track of how many zombies a player or yourself have killed!'
+version: 1.0
+author: ImDeJay
+
+commands:
+  zombiecount:
+    aliases: zc
